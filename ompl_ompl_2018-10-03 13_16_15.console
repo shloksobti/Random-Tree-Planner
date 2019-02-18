@@ -1,0 +1,847 @@
+Dev1:    Beginning benchmark
+Dev1:    Preparing for run 0 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 5502 states
+Dev1:    SimpleSetup: Path simplification took 0.133827 seconds and changed from 21 to 20 states
+Dev1:    Preparing for run 1 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 1510 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.189200 seconds and changed from 19 to 18 states
+Dev1:    Preparing for run 2 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 8509 states
+Dev1:    SimpleSetup: Path simplification took 0.185168 seconds and changed from 14 to 13 states
+Dev1:    Preparing for run 3 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 15848 states
+Dev1:    SimpleSetup: Path simplification took 0.059532 seconds and changed from 18 to 10 states
+Dev1:    Preparing for run 4 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 3787 states
+Dev1:    SimpleSetup: Path simplification took 0.129232 seconds and changed from 20 to 17 states
+Dev1:    Preparing for run 5 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 9628 states
+Dev1:    SimpleSetup: Path simplification took 0.143113 seconds and changed from 16 to 13 states
+Dev1:    Preparing for run 6 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 2142 states
+Dev1:    SimpleSetup: Path simplification took 0.120148 seconds and changed from 17 to 17 states
+Dev1:    Preparing for run 7 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 16685 states
+Dev1:    SimpleSetup: Path simplification took 0.073092 seconds and changed from 23 to 14 states
+Dev1:    Preparing for run 8 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 8036 states
+Dev1:    SimpleSetup: Path simplification took 0.096466 seconds and changed from 22 to 17 states
+Dev1:    Preparing for run 9 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 12644 states
+Dev1:    SimpleSetup: Path simplification took 0.201459 seconds and changed from 21 to 20 states
+Dev1:    Preparing for run 10 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 9933 states
+Dev1:    SimpleSetup: Path simplification took 0.132294 seconds and changed from 12 to 12 states
+Dev1:    Preparing for run 11 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 7494 states
+Dev1:    SimpleSetup: Path simplification took 0.124554 seconds and changed from 21 to 24 states
+Dev1:    Preparing for run 12 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 12150 states
+Dev1:    SimpleSetup: Path simplification took 0.164027 seconds and changed from 15 to 20 states
+Dev1:    Preparing for run 13 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 13427 states
+Dev1:    SimpleSetup: Path simplification took 0.084355 seconds and changed from 16 to 16 states
+Dev1:    Preparing for run 14 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 1791 states
+Dev1:    SimpleSetup: Path simplification took 0.108708 seconds and changed from 24 to 18 states
+Dev1:    Preparing for run 15 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 15501 states
+Dev1:    SimpleSetup: Path simplification took 0.107904 seconds and changed from 18 to 15 states
+Dev1:    Preparing for run 16 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 10358 states
+Dev1:    SimpleSetup: Path simplification took 0.418267 seconds and changed from 17 to 11 states
+Dev1:    Preparing for run 17 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 7082 states
+Dev1:    SimpleSetup: Path simplification took 0.417291 seconds and changed from 20 to 12 states
+Dev1:    Preparing for run 18 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 7414 states
+Dev1:    SimpleSetup: Path simplification took 0.066316 seconds and changed from 21 to 10 states
+Dev1:    Preparing for run 19 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 9489 states
+Dev1:    SimpleSetup: Path simplification took 0.106449 seconds and changed from 20 to 16 states
+Dev1:    Preparing for run 20 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 14924 states
+Dev1:    SimpleSetup: Path simplification took 0.090308 seconds and changed from 24 to 16 states
+Dev1:    Preparing for run 21 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 12503 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.078366 seconds and changed from 14 to 9 states
+Dev1:    Preparing for run 22 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 14541 states
+Dev1:    SimpleSetup: Path simplification took 0.131389 seconds and changed from 19 to 17 states
+Dev1:    Preparing for run 23 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 9705 states
+Dev1:    SimpleSetup: Path simplification took 0.163783 seconds and changed from 23 to 12 states
+Dev1:    Preparing for run 24 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 13187 states
+Dev1:    SimpleSetup: Path simplification took 0.200488 seconds and changed from 18 to 16 states
+Dev1:    Preparing for run 25 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 14069 states
+Dev1:    SimpleSetup: Path simplification took 0.093591 seconds and changed from 17 to 11 states
+Dev1:    Preparing for run 26 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 14068 states
+Dev1:    SimpleSetup: Path simplification took 0.126927 seconds and changed from 25 to 17 states
+Dev1:    Preparing for run 27 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 8849 states
+Dev1:    SimpleSetup: Path simplification took 0.132980 seconds and changed from 18 to 19 states
+Dev1:    Preparing for run 28 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 14618 states
+Dev1:    SimpleSetup: Path simplification took 0.097336 seconds and changed from 23 to 15 states
+Dev1:    Preparing for run 29 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 15150 states
+Dev1:    SimpleSetup: Path simplification took 0.072081 seconds and changed from 14 to 10 states
+Dev1:    Preparing for run 30 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 14261 states
+Dev1:    SimpleSetup: Path simplification took 0.120812 seconds and changed from 22 to 17 states
+Dev1:    Preparing for run 31 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 12305 states
+Dev1:    SimpleSetup: Path simplification took 0.161976 seconds and changed from 18 to 15 states
+Dev1:    Preparing for run 32 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 11613 states
+Dev1:    SimpleSetup: Path simplification took 0.089951 seconds and changed from 17 to 16 states
+Dev1:    Preparing for run 33 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 13422 states
+Dev1:    SimpleSetup: Path simplification took 0.135379 seconds and changed from 19 to 18 states
+Dev1:    Preparing for run 34 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 8186 states
+Dev1:    SimpleSetup: Path simplification took 0.140906 seconds and changed from 26 to 22 states
+Dev1:    Preparing for run 35 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 11045 states
+Dev1:    SimpleSetup: Path simplification took 0.137803 seconds and changed from 16 to 11 states
+Dev1:    Preparing for run 36 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 12321 states
+Dev1:    SimpleSetup: Path simplification took 0.079292 seconds and changed from 18 to 9 states
+Dev1:    Preparing for run 37 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 990 states
+Dev1:    SimpleSetup: Path simplification took 0.166941 seconds and changed from 28 to 20 states
+Dev1:    Preparing for run 38 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 11589 states
+Dev1:    SimpleSetup: Path simplification took 0.103528 seconds and changed from 19 to 15 states
+Dev1:    Preparing for run 39 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 5228 states
+Dev1:    SimpleSetup: Path simplification took 0.167812 seconds and changed from 20 to 20 states
+Dev1:    Preparing for run 40 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 12011 states
+Dev1:    SimpleSetup: Path simplification took 0.130935 seconds and changed from 21 to 17 states
+Dev1:    Preparing for run 41 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 9882 states
+Dev1:    SimpleSetup: Path simplification took 0.120491 seconds and changed from 22 to 15 states
+Dev1:    Preparing for run 42 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 17840 states
+Dev1:    SimpleSetup: Path simplification took 0.083431 seconds and changed from 23 to 19 states
+Dev1:    Preparing for run 43 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 17680 states
+Dev1:    SimpleSetup: Path simplification took 0.141961 seconds and changed from 22 to 17 states
+Dev1:    Preparing for run 44 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 18067 states
+Dev1:    SimpleSetup: Path simplification took 0.063227 seconds and changed from 24 to 15 states
+Dev1:    Preparing for run 45 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 14406 states
+Dev1:    SimpleSetup: Path simplification took 0.106092 seconds and changed from 23 to 13 states
+Dev1:    Preparing for run 46 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 19494 states
+Dev1:    SimpleSetup: Path simplification took 0.072196 seconds and changed from 22 to 15 states
+Dev1:    Preparing for run 47 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    ProblemDefinition: Adding approximate solution from planner RTP
+Dev1:    RTP: Created 16613 states
+Dev1:    SimpleSetup: Path simplification took 0.075593 seconds and changed from 18 to 19 states
+Dev1:    Preparing for run 48 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 4189 states
+Dev1:    SimpleSetup: Path simplification took 0.100277 seconds and changed from 16 to 21 states
+Dev1:    Preparing for run 49 of geometric_RTP
+Dev1:    RTP: Starting planning with 1 states already in datastructure
+Dev1:    RTP: Created 7831 states
+Dev1:    SimpleSetup: Path simplification took 0.110075 seconds and changed from 23 to 21 states
+Dev1:    Preparing for run 0 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 263 states
+Dev1:    SimpleSetup: Path simplification took 0.143800 seconds and changed from 27 to 21 states
+Dev1:    Preparing for run 1 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 175 states
+Dev1:    SimpleSetup: Path simplification took 0.119949 seconds and changed from 26 to 18 states
+Dev1:    Preparing for run 2 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 115 states
+Dev1:    SimpleSetup: Path simplification took 0.108117 seconds and changed from 23 to 18 states
+Dev1:    Preparing for run 3 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 92 states
+Dev1:    SimpleSetup: Path simplification took 0.106171 seconds and changed from 22 to 16 states
+Dev1:    Preparing for run 4 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 405 states
+Dev1:    SimpleSetup: Path simplification took 0.132174 seconds and changed from 31 to 18 states
+Dev1:    Preparing for run 5 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 320 states
+Dev1:    SimpleSetup: Path simplification took 0.134926 seconds and changed from 38 to 22 states
+Dev1:    Preparing for run 6 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 150 states
+Dev1:    SimpleSetup: Path simplification took 0.135569 seconds and changed from 29 to 21 states
+Dev1:    Preparing for run 7 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 346 states
+Dev1:    SimpleSetup: Path simplification took 0.096312 seconds and changed from 29 to 17 states
+Dev1:    Preparing for run 8 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 215 states
+Dev1:    SimpleSetup: Path simplification took 0.136183 seconds and changed from 30 to 19 states
+Dev1:    Preparing for run 9 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 154 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.124814 seconds and changed from 24 to 18 states
+Dev1:    Preparing for run 10 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 140 states
+Dev1:    SimpleSetup: Path simplification took 0.132716 seconds and changed from 24 to 17 states
+Dev1:    Preparing for run 11 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 189 states
+Dev1:    SimpleSetup: Path simplification took 0.104508 seconds and changed from 26 to 19 states
+Dev1:    Preparing for run 12 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 386 states
+Dev1:    SimpleSetup: Path simplification took 0.149549 seconds and changed from 29 to 20 states
+Dev1:    Preparing for run 13 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 178 states
+Dev1:    SimpleSetup: Path simplification took 0.116125 seconds and changed from 24 to 17 states
+Dev1:    Preparing for run 14 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 147 states
+Dev1:    SimpleSetup: Path simplification took 0.101818 seconds and changed from 25 to 18 states
+Dev1:    Preparing for run 15 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 275 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.126276 seconds and changed from 27 to 20 states
+Dev1:    Preparing for run 16 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 183 states
+Dev1:    SimpleSetup: Path simplification took 0.132802 seconds and changed from 25 to 20 states
+Dev1:    Preparing for run 17 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 161 states
+Dev1:    SimpleSetup: Path simplification took 0.152844 seconds and changed from 25 to 19 states
+Dev1:    Preparing for run 18 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 383 states
+Dev1:    SimpleSetup: Path simplification took 0.119747 seconds and changed from 26 to 19 states
+Dev1:    Preparing for run 19 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 162 states
+Dev1:    SimpleSetup: Path simplification took 0.145594 seconds and changed from 26 to 16 states
+Dev1:    Preparing for run 20 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 195 states
+Dev1:    SimpleSetup: Path simplification took 0.133042 seconds and changed from 26 to 19 states
+Dev1:    Preparing for run 21 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 517 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.125445 seconds and changed from 29 to 20 states
+Dev1:    Preparing for run 22 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 168 states
+Dev1:    SimpleSetup: Path simplification took 0.121986 seconds and changed from 23 to 18 states
+Dev1:    Preparing for run 23 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 238 states
+Dev1:    SimpleSetup: Path simplification took 0.100229 seconds and changed from 28 to 22 states
+Dev1:    Preparing for run 24 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 475 states
+Dev1:    SimpleSetup: Path simplification took 0.092007 seconds and changed from 33 to 18 states
+Dev1:    Preparing for run 25 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 281 states
+Dev1:    SimpleSetup: Path simplification took 0.152859 seconds and changed from 29 to 19 states
+Dev1:    Preparing for run 26 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 130 states
+Dev1:    SimpleSetup: Path simplification took 0.100705 seconds and changed from 28 to 20 states
+Dev1:    Preparing for run 27 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 336 states
+Dev1:    SimpleSetup: Path simplification took 0.112762 seconds and changed from 29 to 19 states
+Dev1:    Preparing for run 28 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 310 states
+Dev1:    SimpleSetup: Path simplification took 0.166946 seconds and changed from 31 to 21 states
+Dev1:    Preparing for run 29 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 154 states
+Dev1:    SimpleSetup: Path simplification took 0.176528 seconds and changed from 30 to 21 states
+Dev1:    Preparing for run 30 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 403 states
+Dev1:    SimpleSetup: Path simplification took 0.134760 seconds and changed from 29 to 20 states
+Dev1:    Preparing for run 31 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 225 states
+Dev1:    SimpleSetup: Path simplification took 0.161954 seconds and changed from 28 to 22 states
+Dev1:    Preparing for run 32 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 358 states
+Dev1:    SimpleSetup: Path simplification took 0.145034 seconds and changed from 33 to 19 states
+Dev1:    Preparing for run 33 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 344 states
+Dev1:    SimpleSetup: Path simplification took 0.117758 seconds and changed from 32 to 18 states
+Dev1:    Preparing for run 34 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 194 states
+Dev1:    SimpleSetup: Path simplification took 0.120920 seconds and changed from 25 to 18 states
+Dev1:    Preparing for run 35 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 256 states
+Dev1:    SimpleSetup: Path simplification took 0.173900 seconds and changed from 25 to 19 states
+Dev1:    Preparing for run 36 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 184 states
+Dev1:    SimpleSetup: Path simplification took 0.110585 seconds and changed from 24 to 20 states
+Dev1:    Preparing for run 37 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 183 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.145151 seconds and changed from 33 to 20 states
+Dev1:    Preparing for run 38 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 118 states
+Dev1:    SimpleSetup: Path simplification took 0.156740 seconds and changed from 23 to 19 states
+Dev1:    Preparing for run 39 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 164 states
+Dev1:    SimpleSetup: Path simplification took 0.105139 seconds and changed from 22 to 17 states
+Dev1:    Preparing for run 40 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 364 states
+Dev1:    SimpleSetup: Path simplification took 0.115798 seconds and changed from 29 to 18 states
+Dev1:    Preparing for run 41 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 254 states
+Dev1:    SimpleSetup: Path simplification took 0.139934 seconds and changed from 30 to 19 states
+Dev1:    Preparing for run 42 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 157 states
+Dev1:    SimpleSetup: Path simplification took 0.138292 seconds and changed from 25 to 18 states
+Dev1:    Preparing for run 43 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 220 states
+Dev1:    SimpleSetup: Path simplification took 0.104556 seconds and changed from 30 to 21 states
+Dev1:    Preparing for run 44 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 222 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.124038 seconds and changed from 29 to 22 states
+Dev1:    Preparing for run 45 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 150 states
+Dev1:    SimpleSetup: Path simplification took 0.153458 seconds and changed from 31 to 22 states
+Dev1:    Preparing for run 46 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 193 states
+Dev1:    SimpleSetup: Path simplification took 0.127467 seconds and changed from 26 to 20 states
+Dev1:    Preparing for run 47 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 264 states
+Dev1:    SimpleSetup: Path simplification took 0.103955 seconds and changed from 27 to 21 states
+Dev1:    Preparing for run 48 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 114 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.111767 seconds and changed from 25 to 20 states
+Dev1:    Preparing for run 49 of geometric_RRT
+Dev1:    RRT: Starting planning with 1 states already in datastructure
+Dev1:    RRT: Created 366 states
+Dev1:    SimpleSetup: Path simplification took 0.143741 seconds and changed from 31 to 19 states
+Dev1:    Preparing for run 0 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1246 states
+Dev1:    SimpleSetup: Path simplification took 0.204086 seconds and changed from 32 to 23 states
+Dev1:    Preparing for run 1 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 171 states
+Dev1:    SimpleSetup: Path simplification took 0.119620 seconds and changed from 20 to 19 states
+Dev1:    Preparing for run 2 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3387 states
+Dev1:    SimpleSetup: Path simplification took 0.278946 seconds and changed from 40 to 22 states
+Dev1:    Preparing for run 3 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 814 states
+Dev1:    SimpleSetup: Path simplification took 0.157616 seconds and changed from 29 to 20 states
+Dev1:    Preparing for run 4 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1713 states
+Dev1:    SimpleSetup: Path simplification took 0.193203 seconds and changed from 27 to 24 states
+Dev1:    Preparing for run 5 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 440 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.138245 seconds and changed from 28 to 25 states
+Dev1:    Preparing for run 6 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1008 states
+Dev1:    SimpleSetup: Path simplification took 0.210000 seconds and changed from 30 to 22 states
+Dev1:    Preparing for run 7 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 489 states
+Dev1:    SimpleSetup: Path simplification took 0.128799 seconds and changed from 22 to 17 states
+Dev1:    Preparing for run 8 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 281 states
+Dev1:    SimpleSetup: Path simplification took 0.135338 seconds and changed from 21 to 21 states
+Dev1:    Preparing for run 9 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2212 states
+Dev1:    SimpleSetup: Path simplification took 0.315988 seconds and changed from 33 to 20 states
+Dev1:    Preparing for run 10 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2559 states
+Dev1:    SimpleSetup: Path simplification took 0.187892 seconds and changed from 37 to 25 states
+Dev1:    Preparing for run 11 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1553 states
+Dev1:    SimpleSetup: Path simplification took 0.161944 seconds and changed from 28 to 25 states
+Dev1:    Preparing for run 12 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2550 states
+Dev1:    SimpleSetup: Path simplification took 0.181006 seconds and changed from 34 to 26 states
+Dev1:    Preparing for run 13 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2041 states
+Dev1:    SimpleSetup: Path simplification took 0.245197 seconds and changed from 39 to 24 states
+Dev1:    Preparing for run 14 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1522 states
+Dev1:    SimpleSetup: Path simplification took 0.178192 seconds and changed from 31 to 20 states
+Dev1:    Preparing for run 15 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1397 states
+Dev1:    SimpleSetup: Path simplification took 0.222472 seconds and changed from 46 to 26 states
+Dev1:    Preparing for run 16 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1136 states
+Dev1:    SimpleSetup: Path simplification took 0.123431 seconds and changed from 22 to 20 states
+Dev1:    Preparing for run 17 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2487 states
+Dev1:    SimpleSetup: Path simplification took 0.243522 seconds and changed from 34 to 24 states
+Dev1:    Preparing for run 18 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 571 states
+Dev1:    SimpleSetup: Path simplification took 0.201754 seconds and changed from 29 to 22 states
+Dev1:    Preparing for run 19 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1239 states
+Dev1:    SimpleSetup: Path simplification took 0.125026 seconds and changed from 28 to 23 states
+Dev1:    Preparing for run 20 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 533 states
+Dev1:    SimpleSetup: Path simplification took 0.208607 seconds and changed from 26 to 16 states
+Dev1:    Preparing for run 21 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2443 states
+Dev1:    SimpleSetup: Path simplification took 0.259010 seconds and changed from 32 to 24 states
+Dev1:    Preparing for run 22 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1384 states
+Dev1:    SimpleSetup: Path simplification took 0.154554 seconds and changed from 35 to 28 states
+Dev1:    Preparing for run 23 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2259 states
+Dev1:    SimpleSetup: Path simplification took 0.194530 seconds and changed from 33 to 20 states
+Dev1:    Preparing for run 24 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 391 states
+Dev1:    SimpleSetup: Path simplification took 0.124106 seconds and changed from 23 to 25 states
+Dev1:    Preparing for run 25 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 767 states
+Dev1:    SimpleSetup: Path simplification took 0.172535 seconds and changed from 33 to 26 states
+Dev1:    Preparing for run 26 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2270 states
+Dev1:    SimpleSetup: Path simplification took 0.291831 seconds and changed from 36 to 21 states
+Dev1:    Preparing for run 27 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 614 states
+Dev1:    SimpleSetup: Path simplification took 0.192143 seconds and changed from 27 to 20 states
+Dev1:    Preparing for run 28 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1266 states
+Dev1:    SimpleSetup: Path simplification took 0.214395 seconds and changed from 33 to 23 states
+Dev1:    Preparing for run 29 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 395 states
+Dev1:    SimpleSetup: Path simplification took 0.179877 seconds and changed from 23 to 23 states
+Dev1:    Preparing for run 30 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1673 states
+Dev1:    SimpleSetup: Path simplification took 0.162328 seconds and changed from 31 to 19 states
+Dev1:    Preparing for run 31 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 368 states
+Dev1:    SimpleSetup: Path simplification took 0.133064 seconds and changed from 21 to 18 states
+Dev1:    Preparing for run 32 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 932 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.186769 seconds and changed from 31 to 22 states
+Dev1:    Preparing for run 33 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 4361 states
+Dev1:    SimpleSetup: Path simplification took 0.225664 seconds and changed from 35 to 23 states
+Dev1:    Preparing for run 34 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1408 states
+Dev1:    SimpleSetup: Path simplification took 0.232593 seconds and changed from 36 to 25 states
+Dev1:    Preparing for run 35 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1996 states
+Dev1:    SimpleSetup: Path simplification took 0.203900 seconds and changed from 30 to 26 states
+Dev1:    Preparing for run 36 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1261 states
+Dev1:    SimpleSetup: Path simplification took 0.146713 seconds and changed from 27 to 23 states
+Dev1:    Preparing for run 37 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 370 states
+Dev1:    SimpleSetup: Path simplification took 0.114148 seconds and changed from 24 to 21 states
+Dev1:    Preparing for run 38 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 371 states
+Dev1:    SimpleSetup: Path simplification took 0.114535 seconds and changed from 25 to 18 states
+Dev1:    Preparing for run 39 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 3194 states
+Dev1:    SimpleSetup: Path simplification took 0.245286 seconds and changed from 34 to 24 states
+Dev1:    Preparing for run 40 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 243 states
+Dev1:    SimpleSetup: Path simplification took 0.136224 seconds and changed from 27 to 21 states
+Dev1:    Preparing for run 41 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1562 states
+Dev1:    SimpleSetup: Path simplification took 0.238712 seconds and changed from 37 to 25 states
+Dev1:    Preparing for run 42 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2304 states
+Dev1:    SimpleSetup: Path simplification took 0.166554 seconds and changed from 28 to 24 states
+Dev1:    Preparing for run 43 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 647 states
+Dev1:    SimpleSetup: Path simplification took 0.278667 seconds and changed from 27 to 22 states
+Dev1:    Preparing for run 44 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1946 states
+Dev1:    SimpleSetup: Path simplification took 0.437261 seconds and changed from 40 to 27 states
+Dev1:    Preparing for run 45 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2348 states
+Dev1:    SimpleSetup: Path simplification took 0.233529 seconds and changed from 35 to 25 states
+Dev1:    Preparing for run 46 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2610 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.242074 seconds and changed from 39 to 29 states
+Dev1:    Preparing for run 47 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 1155 states
+Dev1:    SimpleSetup: Path simplification took 0.134681 seconds and changed from 29 to 23 states
+Dev1:    Preparing for run 48 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 5745 states
+Dev1:    SimpleSetup: Path simplification took 0.332011 seconds and changed from 43 to 25 states
+Dev1:    Preparing for run 49 of geometric_PRM
+Dev1:    PRM: Starting planning with 2 states already in datastructure
+Dev1:    PRM: Created 2328 states
+Dev1:    SimpleSetup: Path simplification took 0.173773 seconds and changed from 31 to 28 states
+Dev1:    Preparing for run 0 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 333 states
+Dev1:    SimpleSetup: Path simplification took 0.143521 seconds and changed from 36 to 18 states
+Dev1:    Preparing for run 1 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 267 states
+Dev1:    SimpleSetup: Path simplification took 0.126365 seconds and changed from 36 to 22 states
+Dev1:    Preparing for run 2 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 315 states
+Dev1:    SimpleSetup: Path simplification took 0.150152 seconds and changed from 36 to 20 states
+Dev1:    Preparing for run 3 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 298 states
+Dev1:    SimpleSetup: Path simplification took 0.146354 seconds and changed from 36 to 21 states
+Dev1:    Preparing for run 4 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 350 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.141060 seconds and changed from 37 to 21 states
+Dev1:    Preparing for run 5 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 310 states
+Dev1:    SimpleSetup: Path simplification took 0.140236 seconds and changed from 37 to 19 states
+Dev1:    Preparing for run 6 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 397 states
+Dev1:    SimpleSetup: Path simplification took 0.135627 seconds and changed from 41 to 16 states
+Dev1:    Preparing for run 7 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 339 states
+Dev1:    SimpleSetup: Path simplification took 0.148197 seconds and changed from 37 to 20 states
+Dev1:    Preparing for run 8 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 337 states
+Dev1:    SimpleSetup: Path simplification took 0.143774 seconds and changed from 44 to 18 states
+Dev1:    Preparing for run 9 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 341 states
+Dev1:    SimpleSetup: Path simplification took 0.157193 seconds and changed from 44 to 20 states
+Dev1:    Preparing for run 10 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 391 states
+Dev1:    SimpleSetup: Path simplification took 0.121710 seconds and changed from 39 to 14 states
+Dev1:    Preparing for run 11 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 339 states
+Dev1:    SimpleSetup: Path simplification took 0.114180 seconds and changed from 44 to 25 states
+Dev1:    Preparing for run 12 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 309 states
+Dev1:    SimpleSetup: Path simplification took 0.114392 seconds and changed from 34 to 20 states
+Dev1:    Preparing for run 13 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 301 states
+Dev1:    SimpleSetup: Path simplification took 0.137685 seconds and changed from 37 to 23 states
+Dev1:    Preparing for run 14 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 289 states
+Dev1:    SimpleSetup: Path simplification took 0.125153 seconds and changed from 37 to 16 states
+Dev1:    Preparing for run 15 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 277 states
+Dev1:    SimpleSetup: Path simplification took 0.141848 seconds and changed from 41 to 22 states
+Dev1:    Preparing for run 16 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 393 states
+Dev1:    SimpleSetup: Path simplification took 0.138796 seconds and changed from 38 to 22 states
+Dev1:    Preparing for run 17 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 377 states
+Dev1:    SimpleSetup: Path simplification took 0.153680 seconds and changed from 43 to 21 states
+Dev1:    Preparing for run 18 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 317 states
+Dev1:    SimpleSetup: Path simplification took 0.105770 seconds and changed from 35 to 24 states
+Dev1:    Preparing for run 19 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 358 states
+Dev1:    SimpleSetup: Path simplification took 0.160120 seconds and changed from 35 to 15 states
+Dev1:    Preparing for run 20 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 320 states
+Dev1:    SimpleSetup: Path simplification took 0.149970 seconds and changed from 33 to 24 states
+Dev1:    Preparing for run 21 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 277 states
+Dev1:    SimpleSetup: Path simplification took 0.117149 seconds and changed from 38 to 17 states
+Dev1:    Preparing for run 22 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 409 states
+Dev1:    SimpleSetup: Path simplification took 0.106561 seconds and changed from 42 to 17 states
+Dev1:    Preparing for run 23 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 345 states
+Dev1:    SimpleSetup: Path simplification took 0.142935 seconds and changed from 43 to 21 states
+Dev1:    Preparing for run 24 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 386 states
+Dev1:    SimpleSetup: Path simplification took 0.166080 seconds and changed from 38 to 22 states
+Dev1:    Preparing for run 25 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 330 states
+Dev1:    SimpleSetup: Path simplification took 0.132565 seconds and changed from 45 to 19 states
+Dev1:    Preparing for run 26 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 290 states
+Dev1:    SimpleSetup: Path simplification took 0.099064 seconds and changed from 31 to 15 states
+Dev1:    Preparing for run 27 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 395 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.167330 seconds and changed from 39 to 19 states
+Dev1:    Preparing for run 28 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 362 states
+Dev1:    SimpleSetup: Path simplification took 0.139717 seconds and changed from 36 to 18 states
+Dev1:    Preparing for run 29 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 358 states
+Dev1:    SimpleSetup: Path simplification took 0.149987 seconds and changed from 41 to 21 states
+Dev1:    Preparing for run 30 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 307 states
+Dev1:    SimpleSetup: Path simplification took 0.138489 seconds and changed from 35 to 19 states
+Dev1:    Preparing for run 31 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 291 states
+Dev1:    SimpleSetup: Path simplification took 0.108708 seconds and changed from 40 to 17 states
+Dev1:    Preparing for run 32 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 264 states
+Dev1:    SimpleSetup: Path simplification took 0.122239 seconds and changed from 34 to 18 states
+Dev1:    Preparing for run 33 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 321 states
+Dev1:    SimpleSetup: Path simplification took 0.170144 seconds and changed from 42 to 21 states
+Dev1:    Preparing for run 34 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 311 states
+Dev1:    SimpleSetup: Path simplification took 0.132515 seconds and changed from 36 to 18 states
+Dev1:    Preparing for run 35 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 348 states
+Dev1:    SimpleSetup: Path simplification took 0.162106 seconds and changed from 34 to 18 states
+Dev1:    Preparing for run 36 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 300 states
+Dev1:    SimpleSetup: Path simplification took 0.164593 seconds and changed from 37 to 17 states
+Dev1:    Preparing for run 37 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 314 states
+Dev1:    SimpleSetup: Path simplification took 0.161764 seconds and changed from 37 to 16 states
+Dev1:    Preparing for run 38 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 327 states
+Dev1:    SimpleSetup: Path simplification took 0.135680 seconds and changed from 35 to 23 states
+Dev1:    Preparing for run 39 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 343 states
+Dev1:    SimpleSetup: Path simplification took 0.115088 seconds and changed from 40 to 18 states
+Dev1:    Preparing for run 40 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 300 states
+Dev1:    SimpleSetup: Path simplification took 0.106960 seconds and changed from 35 to 19 states
+Dev1:    Preparing for run 41 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 323 states
+Dev1:    SimpleSetup: Path simplification took 0.157596 seconds and changed from 41 to 21 states
+Dev1:    Preparing for run 42 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 236 states
+Dev1:    SimpleSetup: Path simplification took 0.107031 seconds and changed from 31 to 22 states
+Dev1:    Preparing for run 43 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 358 states
+Dev1:    SimpleSetup: Path simplification took 0.122901 seconds and changed from 46 to 17 states
+Dev1:    Preparing for run 44 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 323 states
+Dev1:    SimpleSetup: Path simplification took 0.141869 seconds and changed from 37 to 22 states
+Dev1:    Preparing for run 45 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 355 states
+Dev2:    The solution path was slightly touching on an invalid region of the state space, but it was successfully fixed.
+Dev1:    SimpleSetup: Path simplification took 0.122307 seconds and changed from 38 to 21 states
+Dev1:    Preparing for run 46 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 313 states
+Dev1:    SimpleSetup: Path simplification took 0.120820 seconds and changed from 36 to 20 states
+Dev1:    Preparing for run 47 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 365 states
+Dev1:    SimpleSetup: Path simplification took 0.124473 seconds and changed from 45 to 18 states
+Dev1:    Preparing for run 48 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 312 states
+Dev1:    SimpleSetup: Path simplification took 0.154426 seconds and changed from 31 to 23 states
+Dev1:    Preparing for run 49 of geometric_EST
+Dev1:    EST: Starting planning with 1 states already in datastructure
+Dev1:    EST: Created 297 states
+Dev1:    SimpleSetup: Path simplification took 0.138448 seconds and changed from 40 to 18 states
+Dev1:    Benchmark complete
